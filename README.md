@@ -6,7 +6,7 @@ These templates emulate how a real DSS would function using their respective doc
 
 ## Prerequisites
 - docker engine installed and running on your machine - https://docs.docker.com/engine/install/
-- docker compose installed - https://docs.docker.com/compose/install/
+- docker-compose installed - https://docs.docker.com/compose/install/
 - Availability of ports 8080, 8081, 8454, 3000 (You can change the ports in docker-compose.yaml if needed)
 
 ## Running the DSS Emulation
